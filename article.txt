@@ -1,1 +1,1 @@
-Version 2: Added Git Basics
+Version 3: Added Branching Section
