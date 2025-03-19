@@ -1,1 +1,1 @@
-Version 3: Added Branching Section
+Version 4: Added Git Reset Section
